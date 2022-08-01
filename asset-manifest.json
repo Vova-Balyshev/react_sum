@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Vova-Balyshev/react_sum/static/js/main.2fe1a1ed.chunk.js",
+    "main.js.map": "/Vova-Balyshev/react_sum/static/js/main.2fe1a1ed.chunk.js.map",
+    "runtime-main.js": "/Vova-Balyshev/react_sum/static/js/runtime-main.3d8fd53e.js",
+    "runtime-main.js.map": "/Vova-Balyshev/react_sum/static/js/runtime-main.3d8fd53e.js.map",
+    "static/js/2.0b13b41e.chunk.js": "/Vova-Balyshev/react_sum/static/js/2.0b13b41e.chunk.js",
+    "static/js/2.0b13b41e.chunk.js.map": "/Vova-Balyshev/react_sum/static/js/2.0b13b41e.chunk.js.map",
+    "index.html": "/Vova-Balyshev/react_sum/index.html",
+    "static/js/2.0b13b41e.chunk.js.LICENSE.txt": "/Vova-Balyshev/react_sum/static/js/2.0b13b41e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d8fd53e.js",
+    "static/js/2.0b13b41e.chunk.js",
+    "static/js/main.2fe1a1ed.chunk.js"
+  ]
+}
